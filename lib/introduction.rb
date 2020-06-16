@@ -3,5 +3,5 @@ def howdy (country)
 end
 
 def howdy_more(name,country)
-  puts ""
+  puts "Hi y'all, I'm #{name} and I'm from #{country}, nice to meet you!"
 end
