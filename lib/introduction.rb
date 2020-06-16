@@ -1,10 +1,6 @@
-def howdy (country)
-  puts "Hi y'all, I'm from #{country}, nice to meet you!"
-end
-
-def howdy_more(name,country)
-  puts "Hi y'all, I'm #{name} and I'm from #{country}, nice to meet you!"
-end
-
 def introduction (name)
+  puts "Hi I'm #{name} and I'm happy to meet you"
 end
+
+def introduction_with_language(name,language)
+  puts "Hi I'm #{name} and my first programming language I learned was #{language}!"
